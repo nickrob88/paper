@@ -5,13 +5,13 @@ html {
 
 body {
   width: 100%;
-  text-align: center;
+  color: #ffffff;
 }
 
 #header {
   width: 100%;
 }
 
-h1 {
-  color: #ffffff;
+#content {
+  padding: 10px;
 }
